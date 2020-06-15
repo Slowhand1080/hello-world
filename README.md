@@ -1,5 +1,5 @@
 # hello-world
 
-Hi! Humans!
+Hi Humans!
 
 Slowhand1080 here, nice to meet you. 
